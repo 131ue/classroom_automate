@@ -10,4 +10,4 @@ youremailadrees@gmail.com
 yourpassword
 ```
 ### 步驟二
-尋找main.exe點開橫即可!
+尋找main.exe點開即可!
