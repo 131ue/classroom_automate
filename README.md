@@ -14,4 +14,4 @@ yourpassword
 尋找main.exe點開即可!
 ## 下載
 目前唯一也是所有的版本<br>
-[release v 0.1- beta](https://github.com/131ue/classroom_automate/releases/tag/0.1)<br>
+[release v 0.1- beta](https://github.com/131ue/classroom_automate/releases/tag/v0.1)<br>
